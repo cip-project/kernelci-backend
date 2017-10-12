@@ -1,0 +1,13 @@
+DataLicense: CC0-1.0
+PackageName: B@D
+DataFormat: SPDXRef-1
+PackageSupplier: Organization: Linux Foundation
+PackageHomePage: https://wiki.linuxfoundation.org/civilinfrastructureplatform/ciptesting
+PackageLicenseDeclared: AGPL-3.0
+PackageCopyrightText: 2017, Codethink Ltd
+PackageSummary: <text>This is the backend engine, Python and Tornado powered, that makes up all the
+available API for the Kernel CI reporting dashboard.
+                </text>
+Created: 2017-10-12
+PackageDownloadLocation: https://gitlab.com/cip-project/cip-testing/kernelci-backend
+Creator: Person: Robert Marshall
